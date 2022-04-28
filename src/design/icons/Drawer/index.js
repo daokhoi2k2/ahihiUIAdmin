@@ -9,7 +9,7 @@ export { ReactComponent as HouseIcon } from "assets/svg/house.svg";
 export { ReactComponent as ShakinghandIcon } from "assets/svg/shakinghand.svg";
 export { ReactComponent as EmployeeIcon } from "assets/svg/employee.svg";
 export { ReactComponent as TagIcon } from "assets/svg/tag.svg";
-export { ReactComponent as RefundIcon } from "assets/svg/tag.svg";
+export { ReactComponent as RefundIcon } from "assets/svg/refund.svg";
 export { ReactComponent as TruckIcon } from "assets/svg/truck.svg";
 export { ReactComponent as CompleteIcon } from "assets/svg/complete.svg";
 export { ReactComponent as BellIcon2 } from "assets/svg/bell2.svg";
