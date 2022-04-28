@@ -9,6 +9,7 @@ export const RouteItemWrapper = styled("div")(({ active }) => [
     border-[rgba(9,82,163, 0.3)]
     my-1
     cursor-pointer
+    active:scale-[0.97]
     text-[#0952A3]
 
     hover:text-white

@@ -14,4 +14,6 @@ export const ModelOverviewItemContent = tw.div`
     rounded-2xl
     box-shadow[0px 0px 5px rgba(0, 0, 0, 0.25)]
     p-4
+    hover:bg-[#ddd]
+    cursor-pointer
 `;

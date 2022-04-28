@@ -1,5 +1,5 @@
 # UI Admin Ahihi.com
-[Đường dẫn sản phẩm](https://626a8d887fd6e9038588c72a--gleeful-chimera-ee8eb3.netlify.app)
+[Đường dẫn sản phẩm](https://gleeful-chimera-ee8eb3.netlify.app/)
 
 # Hướng dẫn chạy sản phẩm
 
